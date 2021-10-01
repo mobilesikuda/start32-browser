@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<View>(R.id.btnWeb).setOnClickListener(object : View.OnClickListener {
             override fun onClick(v: View?) {
-                startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/mobilesikuda/start32")))
+                startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("http://www-1c.ru/1")))
             }
         })
     }
