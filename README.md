@@ -1,5 +1,5 @@
-
-Lesson 32. Code simple browser. Go to Kotlin
+#Lesson 32. 
+Code simple browser. Go to Kotlin
 https://startandroid.ru/en/lessons/523-lesson-32-code-simple-browser.html
 
 This lesson:
